@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+.text_border{
+    -webkit-text-stroke: 1px black;
+    color: rgba(0, 0, 0, 0);
+}
+.blockConnect_info{
+    margin: 48px 0;
+}
+.blockConnect_info_header{
+    font-size: 14px;
+}
+.blockConnect_info_text{
+    font-size: 13px;
+    margin-top: 8px;
+    font-family: 'Montserrat', sans-serif;
+}
+.social{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    margin-right: 10px;
+}
+.blockConnect_info_text sup{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 8px;
+}
+.blockConnect_info_form_block{
+    display: block;
+    margin: 30px 0;
+}
+.blockConnect_info_form_block *{
+    font-family: 'Montserrat', sans-serif;
+}
+.blockConnect_info_form_block input{
+    border: none;
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 7px;
+    outline: none;
+}
+.blockConnect_info_form_block span{
+    font-size: 9px;
+}
+div.blockConnect_info_form_block{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 9px;
+    color: #909090;
+}
+div.blockConnect_info_form_block a.use{
+    color: black;
+    border-bottom: 1px dashed black;
+    text-decoration: none;
+}
+
+
+.block2Background1{
+    background-image: url('../img/background1.png');
+}
+.block2Background2{
+    background-image: url('../img/background2.png');
+}
+.block2Background3{
+    background-image: url('../img/background3.png');
+}
+.block2Background4{
+    background-image: url('../img/background4.png');
+}
+ion-icon{
+    width: 20px;
+}
